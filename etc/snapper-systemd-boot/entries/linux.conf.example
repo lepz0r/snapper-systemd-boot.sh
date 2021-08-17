@@ -1,0 +1,3 @@
+title Linux
+linux /vmlinuz-linux
+options root=UUID=<youruuid> rw loglevel=3

@@ -1,3 +1,4 @@
 title Linux
 linux /vmlinuz-linux
-options root=UUID=<youruuid> rw loglevel=3
+initrd /initramfs-linux.img
+options root=UUID=860ab41d-8624-4300-bfe4-b0bb4728b3c2 rw loglevel=3
